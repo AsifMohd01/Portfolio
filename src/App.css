@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+
+
+.Hero-Section{
+   
+}
+
+.About-Section{
+   
+    height: 800px;
+}
+
+.Projects-Section{
+   
+    height: 900px;
+}
+
+.Skills-Section{
+ 
+    height: 700px;
+}
+
+.Contact-Section{
+  
+}
